@@ -1,1 +1,1 @@
-# My Data Mining projects 
+# My projects in Data Mining course
